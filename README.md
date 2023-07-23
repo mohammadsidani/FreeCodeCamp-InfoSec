@@ -1,5 +1,5 @@
 # FreeCodeCamp-InfoSec
-Note that this is an educational purpose.
+Note that this is for educational purpose.
 
 Learn how to create a TCP Server and TCP Client.
 <br>
